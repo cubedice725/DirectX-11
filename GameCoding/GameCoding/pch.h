@@ -3,7 +3,7 @@
 #include "Types.h"
 #include "Values.h"
 #include "Struct.h"
-
+#include <string>
 //STL
 #include <vector>
 #include <list>
